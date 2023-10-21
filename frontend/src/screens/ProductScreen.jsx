@@ -32,7 +32,7 @@ const ProductScreen = () => {
                   <ListGroup.Item>Description: ${product.description}</ListGroup.Item>
                </ListGroup>
             </Col>
-            <Col md={3}>
+            <Col md={3}> 
                <Card>
                   <ListGroup variant="flush">
                      <ListGroup.Item>
